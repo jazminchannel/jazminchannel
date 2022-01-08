@@ -11,7 +11,7 @@
 
 - ☁️ I'm a data analyst
 - 🌱 I’m currently learning python and sql.
-- 🥅 2021 Goals: Grow in my cloud knowledge
+- 🥅 2022 Goals: Grow in my cloud knowledge
 - ⚡ Fun fact: I love thrifting and decorating!
 
 
