@@ -1,4 +1,3 @@
-[![MasterHead](https://www.canva.com/design?create&type=TAENPj_Jo5k&template=EAENvpM8lg0&category=tACZCu4vaxs&analyticsCorrelationId=5196c339-7122-4f07-ad17-2f30b6c13b1b&schema=web-2)]
 
 (img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/e5/e56459a8bb39aeaecc927a41e64c6c5f_w200.gif")
 
