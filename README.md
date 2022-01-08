@@ -1,16 +1,21 @@
-### Hi there 👋
+[![MasterHead](https://www.canva.com/design?create&type=TAENPj_Jo5k&template=EAENvpM8lg0&category=tACZCu4vaxs&analyticsCorrelationId=5196c339-7122-4f07-ad17-2f30b6c13b1b&schema=web-2)]
 
-<!--
-**jazminchannel/jazminchannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/e5/e56459a8bb39aeaecc927a41e64c6c5f_w200.gif")
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Jazmin</h1>
+<h3 align="center">A passionate data analyst from Atlanta, Ga</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jazminchannel&label=Profile%20views&color=0e75b6&style=flat" alt="jazminchannel" /> </p>
+
+- 🌱 I’m currently learning **python and sql**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/jazminjones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jazminjones" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jazminchannel&show_icons=true&locale=en&layout=compact" alt="jazminchannel" /></p>
+
