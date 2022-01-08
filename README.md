@@ -12,7 +12,7 @@
 - ☁️ I'm a data analyst
 - 🌱 I’m currently learning python and sql.
 - 🥅 2022 Goals: Grow in my cloud knowledge
-- ⚡ Fun fact: I love thrifting and decorating!
+- ⚡ Fun fact: I love thrifting, watching HGTV and organizing!
 
 
 ### Connect With Me:
