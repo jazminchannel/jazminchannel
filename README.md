@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/jazmin-channel-449a4683/"><img align="center"  src="https://raw.githubusercontent.com/jazminchannel/jazminchannel/main/banner.png"/></a>
+<a href="https://www.linkedin.com/in/jazmin-channel-449a4683/"><img align="center"  src="https://raw.githubusercontent.com/jazminchannel/jazminchannel/main/banner1.png"/></a>
 
 ---
 
