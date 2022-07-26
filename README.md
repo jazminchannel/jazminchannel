@@ -45,19 +45,6 @@
 ![Jupyternotebooks](https://img.shields.io/badge/Tech-Jupyter_Notebooks-informational?style=for-the-badge&logo=jupyternotebooks&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 ---
-### Python Projects:
-
-</a>
-<a href="https://github.com/jazminchannel/UDEMY-WEB-DEVELOPMENT-COURSE-RATING-ANALYSIS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=UDEMY-WEB-DEVELOPMENT-COURSE-RATING-ANALYSIS&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
-
-  
- </a>
-<a href="https://github.com/jazminchannel/API-PROJECT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=API-PROJECT&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
-  
----
-
 
 <a href="https://github.com/jazminchannel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazminchannel&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true&hide_langs_below=1&hide=jupyter%20notebook, html, css" />
