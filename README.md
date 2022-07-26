@@ -2,14 +2,14 @@
 
 ---
 
-## I am a wife, data analyst, and Python Programmer!</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## I am a Wife, Data Analyst, and Python Programmer!</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rjones18.rjones18)
 
-- ☁️ I'm a data analyst
-- 🌱 I’m currently learning python and sql.
-- 🥅 2022 Goals: Grow in my cloud knowledge
+- ☁️ I'm a Data Analyst
+- 🌱 I’m currently learning AWS.
+- 🥅 2022 Goals: Grow in my AWS cloud knowledge
 - ⚡ Fun fact: I love thrifting, watching HGTV and organizing!
 
 
