@@ -8,7 +8,7 @@
 - 🎓 General Assembly Data Analytics Bootcamp alum
 - 🎓 General Assembly Python Programming Bootcamp alum
 - ☁️ I’m currently learning AWS.
-- 🥅 2022 Goals: Grow in my AWS cloud knowledge
+- 🥅 2022 Goals: Become a Data Engineer
 - ⚡ Fun fact: I love thrifting, watching HGTV and organizing!
 
 
