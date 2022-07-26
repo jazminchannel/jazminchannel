@@ -7,8 +7,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rjones18.rjones18)
 
-- ☁️ I'm a Data Analyst
-- 🌱 I’m currently learning AWS.
+- 🎓 General Assembly Python Programming Bootcamp alum
+- ☁️ I’m currently learning AWS.
 - 🥅 2022 Goals: Grow in my AWS cloud knowledge
 - ⚡ Fun fact: I love thrifting, watching HGTV and organizing!
 
@@ -21,31 +21,27 @@
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
----
+
 
 ### Languages:
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Bash](https://img.shields.io/badge/Code-Bash-informational?style=for-the-badge&logo=bash&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=sql&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
-### Frameworks:
-![Flask](https://img.shields.io/badge/Data-Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-
-### Data:
-![Pandas](https://img.shields.io/badge/Data-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-
-
-### Platforms:
+### Cloud Platforms:
 
 ![Microsoft Azure](https://img.shields.io/badge/Tech-Microsoft_Azure-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Amazon Web Services](https://img.shields.io/badge/Tech-Amazon_Web_Services-informational?style=for-the-badge&logo=amazon-web-services&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
-### Tools:
+### Tech Tools:
 
 ![Git](https://img.shields.io/badge/Tech-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Github](https://img.shields.io/badge/Tech-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Jupyternotebooks](https://img.shields.io/badge/Tech-Jupyter_Notebooks-informational?style=for-the-badge&logo=jupyternotebooks&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 ---
-### Projects:
+### Python Projects:
 
 </a>
 <a href="https://github.com/jazminchannel/UDEMY-WEB-DEVELOPMENT-COURSE-RATING-ANALYSIS">
@@ -55,3 +51,5 @@
  </a>
 <a href="https://github.com/jazminchannel/API-PROJECT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=API-PROJECT&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  
+
