@@ -46,6 +46,9 @@
 
 ---
 
-<a href="https://github.com/jazminchannel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazminchannel&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true&hide_langs_below=1&hide=jupyter%20notebook, html, css" />
+
+### AWS Projects:
+
 </a>
+<a href="https://github.com/rjones18/Code-Star-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=Static-S3-Cloudfront-Website&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
