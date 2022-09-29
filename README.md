@@ -52,3 +52,8 @@
 </a>
 <a href="https://github.com/rjones18/Code-Star-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=Static-S3-Cloudfront-Website&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  
+  </a>
+<a href="https://github.com/rjones18/Code-Star-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=AWS-Managed-Microsoft-AD&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+
