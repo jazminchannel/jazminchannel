@@ -2,7 +2,7 @@
 
 ---
 
-## I am a Wife, Data Analyst, and Python Programmer!</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## I am a Wife, Cloud Enthusiast, and Python Programmer!</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 - 🎓 General Assembly Python Programming Bootcamp alum
