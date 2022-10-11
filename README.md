@@ -56,3 +56,11 @@
 <a href="https://github.com/jazminchannel/AWS-Managed-Microsoft-AD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=AWS-Managed-Microsoft-AD&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
 
+   </a>
+<a href="https://github.com/jazminchannel/AWS-VPN-Server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=AWS-VPN-Server&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  
+   </a>
+<a href="https://github.com/jazminchannel/AWS-WordPress-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=AWS-WordPress-Website&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+
