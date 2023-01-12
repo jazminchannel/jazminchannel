@@ -50,35 +50,35 @@
 
 </a>
 <a href="https://github.com/jazminchannel/Static-S3-Cloudfront-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=Static-S3-Cloudfront-Website&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=jazminchannel&repo=Static-S3-Cloudfront-Website&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
   
   </a>
 <a href="https://github.com/jazminchannel/AWS-Managed-Microsoft-AD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=AWS-Managed-Microsoft-AD&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=jazminchannel&repo=AWS-Managed-Microsoft-AD&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
 
    </a>
 <a href="https://github.com/jazminchannel/AWS-VPN-Server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=AWS-VPN-Server&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=jazminchannel&repo=AWS-VPN-Server&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
   
    </a>
 <a href="https://github.com/jazminchannel/AWS-WordPress-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=AWS-WordPress-Website&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=jazminchannel&repo=AWS-WordPress-Website&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
   
 ### Python Projects:
 
 </a>
 <a href="https://github.com/jazminchannel/Insert_Coin_Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=Insert_Coin_Game&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=jazminchannel&repo=Insert_Coin_Game&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
   
   </a>
 <a href="https://github.com/jazminchannel/Budget_Calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=Budget_Calculator&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=jazminchannel&repo=Budget_Calculator&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
 
    </a>
 <a href="https://github.com/jazminchannel/Tell-Me-the-Weather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=Tell-Me-the-Weather&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=jazminchannel&repo=Tell-Me-the-Weather&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
   
    </a>
 <a href="https://github.com/jazminchannel/Speed_Calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jazminchannel&repo=Speed_Calculator&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=jazminchannel&repo=Speed_Calculator&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
 
