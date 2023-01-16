@@ -7,7 +7,7 @@
 
 - 🎓 General Assembly Python Programming Bootcamp alum
 - ☁️ I’m currently learning AWS.
-- 🥅 2022 Goals: Become a Cloud Engineer
+- 🥅 2023 Goals: Become a Cloud Engineer
 - ⚡ Fun fact: I love thrifting, watching HGTV and organizing!
 
 
