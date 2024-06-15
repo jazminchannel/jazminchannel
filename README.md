@@ -2,12 +2,11 @@
 
 ---
 
-## I am a Wife, Cloud Enthusiast, and Python Programmer!</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## I am a Wife, Linux Engineer, and the Queen of Monitoring!</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 - 🎓 General Assembly Python Programming Bootcamp alum
-- ☁️ I’m currently learning AWS.
-- 🥅 2023 Goals: Become a Cloud Engineer
+- 🥅 2024 Goals: Obtain my Security +
 - ⚡ Fun fact: I love thrifting, watching HGTV and organizing!
 
 
