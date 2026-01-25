@@ -87,6 +87,13 @@ I’m particularly interested in **Cloud Infrastructure, Platform Engineering, a
 
 ---
 
+## 🎓 Technical Certifications
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ad75d9f4-8e95-4685-96fa-4fcceffcb086" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b4ce6df7-5794-4dd2-86f6-eed17d0699b0" />
+
+---
+
 ## ☁️ AWS & Cloud Projects
 
 ### 🔹 Terraform AWS EC2 Module
