@@ -1,7 +1,6 @@
 <a href="https://www.linkedin.com/in/jazmin-channel-449a4683/">
-  <img align="center" src="https://raw.githubusercontent.com/jazminchannel/jazminchannel/main/banner2.png"/>
+<img align="center" width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/15726f35-786f-496a-bb80-171d8fb5d5ba" />
 </a>
-
 ---
 
 ## Cloud & Infrastructure Engineer  
