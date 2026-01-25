@@ -19,8 +19,6 @@ I’m particularly interested in **Cloud Infrastructure, Platform Engineering, a
 </a>
 </p>
 
-<img align="right" alt="coding-gif" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
 ---
 
 ## 🧠 Technical Skills
