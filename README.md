@@ -2,12 +2,13 @@
 <img align="center" width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/15726f35-786f-496a-bb80-171d8fb5d5ba" />
 </a>
 
-## Cloud & Infrastructure Engineer  
+## Cloud & Linux Engineer  
 **Linux • AWS • VMware • Automation • Monitoring • Reliability**
 
 I’m a Cloud & Linux Engineer with hands-on experience designing, automating, and monitoring infrastructure across AWS and hybrid environments. My work focuses on reliability, observability, and scalable systems — turning manual processes into repeatable, automated solutions.
 
-I’m particularly interested in **Cloud Infrastructure, Platform Engineering, and Site Reliability Engineering (SRE)** roles where automation, monitoring, and system reliability are critical.
+I’m particularly interested in Cloud Infrastructure, Platform Engineering, and Site Reliability Engineering (SRE) roles where automation, monitoring, and system reliability are critical.
+
 ---
 
 ## 🔗 Connect With Me
